@@ -1,0 +1,114 @@
+body {
+	font-family: Microsoft YaHei;
+	background-size: 100% 100%;
+	color: #3f2210;
+}
+
+body, div, ul, li, p, h1, h2, h3, section, dl, dt, dd, input {
+	margin: 0;
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+}
+
+h3 {
+	font-weight: normal;
+}
+
+input {
+    -webkit-appearance: none !important;
+}
+
+.clear {
+	clear: both;
+}
+
+.header, .content, .footer {
+	width: 16rem;
+}
+
+.header {
+	height: 2.2rem;
+	background-color: #ffcf2d;
+}
+
+.header-h1 {
+	font-weight: bold;
+	font-size: 0.8rem;
+	text-align: center;
+	line-height: 2.2rem;
+}
+
+.header-img {
+	background-color: #aaa;
+}
+
+.header-img img {
+	width : 15rem;
+	height: 4.8rem;
+}
+
+.join-header-img img {
+	width : 16rem;
+	height: 7.5rem;
+}
+.answer {
+	padding-left: .5rem;
+	padding-right: .5rem;
+}
+
+.answer-title{
+	padding-top: 1rem;
+	text-align: center;
+	color: #d80616; 
+}
+
+.tip {
+	padding-top: 1rem;
+	font-size: 1rem;
+	padding-bottom: 1rem;
+}
+
+.answer-content {
+	padding-top: .8rem;
+	line-height: 1.5rem;
+	padding-bottom: 1.5rem;
+}
+
+.button {
+	background-color: #44b549;
+	text-align: center;
+	color: #fff;
+	height: 2rem;
+	line-height: 2rem;
+	margin-bottom: 1rem;
+	border-radius: .2rem;
+}
+
+.ad {
+	height: 2.4rem;
+	background-color: #aaa;
+}
+
+.ad img {
+	width: 16rem;
+}
+.copy-right p{
+	font-size: .7rem;
+	line-height: .7rem;
+	text-align: center;
+	color: #aaa;
+	margin-top: 1rem;
+	margin-bottom: .3rem;
+}
+
+.username {
+	width: 10rem;
+	font-size: .8rem;
+	line-height: 2rem;
+	padding-left: .5rem;
+	margin-left: 2.5rem;;
+	margin-top: 2rem;
+}
